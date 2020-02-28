@@ -4,13 +4,15 @@ Example of a Python single layer perceptron neural network using sklearn dataset
 
 ### Associated Workshop Slides
 
-The accompanying slides for this repository can be found [here](https://goo.gl/eb3tF9).
+The accompanying slides for this repository can be found [here](https://drive.google.com/open?id=10kniy93K0RVFdNJh8MyQ838YJhG1_EQBeAa-dvk5EUE).
 
 ### Setup 
 
 This is a Python 3 project. You can use either the `single_layer_perceptron.py` file or spin up a Jupyter notebook.
 
-First you'll need to create a `virtualenv` and install the requirements. These instructions presume a [Mac setup](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3). For windows setup follow these [instructions](http://timmyreilly.azurewebsites.net/setup-a-virtualenv-for-python-3-on-windows/). 
+First you'll need to create a `virtualenv` and install the requirements. 
+These instructions presume a [Mac setup](https://gist.github.com/pandafulmanda/730a9355e088a9970b18275cb9eadef3). 
+For windows setup follow these [instructions](http://timmyreilly.azurewebsites.net/setup-a-virtualenv-for-python-3-on-windows/). 
 
 To start:
 
