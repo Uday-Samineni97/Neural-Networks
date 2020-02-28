@@ -1,4 +1,4 @@
-# neural_networks_101
+# Introduccion a las redes neurales en Python
 
 Example of a Python single layer perceptron neural network using sklearn datasets
 
